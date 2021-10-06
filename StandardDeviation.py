@@ -1,6 +1,5 @@
 import csv
 import math
-import statistics
 
 with open('data.csv', newline='') as f:
     reader=csv.reader(f)
